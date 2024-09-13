@@ -25,4 +25,6 @@ void main()
   printf("\n\n");
   printf("Sum of diagonal elemnts is %d", array[0][0] + array[1][1] + array[2][2]);
   printf("\n\n");
+  printf("Hellluuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu. I love sharayu. Sharayu is so great I cant describe in her. she loves her dumb friends like nandini");
 }
+
